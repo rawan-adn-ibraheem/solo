@@ -1,0 +1,31 @@
+
+[
+  {
+    "username":"razan",
+    "country":"syria",
+    "skills":["html","css","javascript"],
+    "adress":{
+      "egypt":"egyptone",
+      "uae":"uaetwo",
+      "syria":["one","two","three"]
+    }
+    
+    
+    
+    
+  },
+  {
+    "username":"rawan",
+    "country":"syria",
+    "skills":["html","css","javascript"],
+    "adress":{
+      "egypt":"egyptone",
+      "uae":"uaetwo",
+      "syria":["one","two","three"]
+    }
+    
+    
+    
+    
+  }
+]
